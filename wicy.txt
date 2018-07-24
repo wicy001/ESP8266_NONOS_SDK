@@ -1,0 +1,3 @@
+wicy record file:
+
+20180724  create wicy.txt
